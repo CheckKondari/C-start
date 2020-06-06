@@ -1,4 +1,5 @@
 /*P4.11*/
+//jkbfiurhbgurjr jnwjnwe	[jnjdfunewouf]
 #include<stdio.h>
 void displayBits(int x);
 unsigned func(unsigned x, unsigned y, int p, int n); 
