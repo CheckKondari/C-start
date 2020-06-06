@@ -1,4 +1,6 @@
 /*P14.4 Printing the binary pattern of an integer*/
+
+
 #include<stdio.h>
 void displayBits(int x);
 int main(void)
@@ -9,6 +11,10 @@ int main(void)
 	displayBits(x);
 	return 0;
 }
+
+/*display bits */
+
+
 void displayBits(int x)
 {
 	int i,mask;
