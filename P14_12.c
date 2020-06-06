@@ -12,6 +12,9 @@ int main(void)
 	displayBits(x);
 	return 0;
 }
+//checking for jnojnr
+//kjfmniognregjer
+//klmrgkimregr
 unsigned func(unsigned x,unsigned y,int p,int n) 
 {
 	unsigned mask = ~(~0<<n)<<p-n+1;  
