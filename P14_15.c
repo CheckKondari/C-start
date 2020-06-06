@@ -1,6 +1,7 @@
-/*P14.15 Program to print the two’s complement of a number*/
+/*P14.15 Program to print the twoâ€™s complement of a number*/
 #include<stdio.h>
 void displayBits(int x);
+//kjnrgjreuognrojgn
 int main(void)
 {
 	int num,i,mask;
