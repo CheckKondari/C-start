@@ -15,6 +15,7 @@ int main(void)
 	printf("~b=%X\n",~b); 	displayBits(~b);
 	return 0;
 }
+/* add display */
 void displayBits(int x)
 {
 	int i,mask;
