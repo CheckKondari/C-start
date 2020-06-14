@@ -11,6 +11,8 @@ int main(void)
 	printf("%d\n",nextHighestPow2(n));
 	return 0;
 }
+
+//verfying Git hub code---writing the comment
 unsigned nextHighestPow2(unsigned int n)
 {
 	int i;
